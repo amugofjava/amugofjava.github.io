@@ -10,3 +10,21 @@ body {
 .mug-header {
     margin-bottom: 16px;
 }
+
+.faq h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+}
+
+.faq div {
+    padding-bottom: 18px;
+}
+
+.faq p,ul {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.faq li {
+    padding-bottom: 18px;
+}
