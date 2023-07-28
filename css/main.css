@@ -505,6 +505,9 @@ ul.nav > li > a.active{
     z-index: -1;
     opacity: 0.2;
 }
+.certified {
+    padding: 8px;
+}
 .download_btn a{
     display: inline-block;
 }
@@ -605,7 +608,7 @@ ul.nav > li > a.active{
     
 }
 .iphone_moc{
-    background: url(../img/features2s.png) no-repeat scroll center center;
+    background: url(../img/features3.png) no-repeat scroll center center;
     width: 400px;
     height: 610px;
     /*height: 100%;*/
