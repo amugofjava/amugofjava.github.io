@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.me.amugofjava.anytime",
+      "sha256_cert_fingerprints": [
+        "F0:2B:75:19:E4:01:2C:14:49:FD:BB:2D:8C:F2:1C:1A:A0:A3:3D:A7:E7:5C:06:AD:79:8B:F0:78:01:6C:78:85"
+      ]
+    }
+  }
+]
