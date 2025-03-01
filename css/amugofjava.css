@@ -28,3 +28,8 @@ body {
 .faq li {
     padding-bottom: 18px;
 }
+
+.privacy {
+   font-family: 'Poppins', sans-serif;
+   text-align: justify;
+}
