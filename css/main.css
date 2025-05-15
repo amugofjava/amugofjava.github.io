@@ -536,6 +536,7 @@ ul.nav > li > a.active{
 .promo_content p{
     font-size: 16px;
     margin-bottom: 0;
+    color: #444444;
 }
 
 /* ==========================================================================
@@ -924,4 +925,8 @@ ul.nav > li > a.active{
 #scroll-to-top:hover{
     background-color: #282828;
     color: #fff;
+}
+
+.nav-link {
+    color: white !important;
 }
